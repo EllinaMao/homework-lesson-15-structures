@@ -24,6 +24,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello from Oleksandra" << endl;
+	cout << "Hello from Tetiana" << endl;
 
 	#ifdef TASK_1_H
 //1. Ñîçäàéòå ñòðóêòóðó, îïèñûâàþùóþ òî÷êó â äâóìåðíîé ñèñòåìå êîîðäèíàò (x, y). Ñ ïîìîùüþ ýòîé ñòðóêòóðû çàäàéòå äâå òî÷êè. 
