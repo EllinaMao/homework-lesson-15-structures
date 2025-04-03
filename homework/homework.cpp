@@ -23,6 +23,7 @@ using namespace std;
 
 int main()
 {
+	// А что с символами
 	cout << "Hello from Oleksandra" << endl;
 
 	#ifdef TASK_1_H
